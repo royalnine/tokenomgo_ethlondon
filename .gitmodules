@@ -1,0 +1,3 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/royalnine/tokenomgo_ui_ethlondon
